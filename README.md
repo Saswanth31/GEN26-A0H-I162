@@ -1,13 +1,12 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-IXXX
+## GEN26-A0H-I162
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **KDVS**  <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |  HOSTELLER / DAYSCHOLAR             |
+|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-----------------------------------:| 
+|   Team Leader   |      SASWANTH           |   CB.SC.U4CSE26156     |     MALE        |             CSE                 |       HOSTELLER (kashyapa bhavanam) |
+|    Member 2     |      KARUN              |   CB.SC.U4CSE26131     |     MALE        |             CSE                 |       HOSTELLER (kashyapa bhavanam) |
+|    Member 3     |      DEVESHVAR          |   CB.SC.U4CSE26116     |     MALE        |             CSE                 |       DAYSCHOLAR                    |
+|    Member 4     |      MOHAMMED RAKSHAN   |   CB.SC.U4CSE26228     |     MALE        |             CSE                 |       HOSTELLER (kashyapa bhavanam) |
